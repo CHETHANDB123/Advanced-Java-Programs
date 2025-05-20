@@ -1,1 +1,1 @@
-
+Capitalize words o/p=
