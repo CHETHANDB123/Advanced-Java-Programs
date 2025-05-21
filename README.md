@@ -105,3 +105,68 @@ Country Capital List o/p-https://github.com/CHETHANDB123/Advanced-Java-Programs/
 Color TabbedPane o/p-https://github.com/CHETHANDB123/Advanced-Java-Programs/blob/main/5d_Swing%20program/Screenshot%202025-05-20%20221125.png
 
 .....................................................................................................................................................................................................................
+6a. Build a servlet program to find the factorial of a number using HTML with step by step procedure.
+
+Factorial Servlet o/p-https://github.com/CHETHANDB123/Advanced-Java-Programs/blob/main/6a_servlet%20program/Screenshot%202025-05-21%20001838.png
+
+.....................................................................................................................................................................................................................
+6b. Build a servlet program to create a cookie to get your name through text box and press submit button( through HTML) to display the message by greeting Welcome back your name ! , you have visited this page n times ( n = number of your visit ) and demonstrate the expiry of cookie also.
+
+Cookie Servlet o/p-https://github.com/CHETHANDB123/Advanced-Java-Programs/blob/main/6b_servlet%20program/Screenshot%202025-05-21%20214415.png
+
+.....................................................................................................................................................................................................................
+6c. Build a servlet program to check the given number is prime number or not using HTML with step by step procedure.
+
+Prime o/p-https://github.com/CHETHANDB123/Advanced-Java-Programs/blob/main/6c_servlet%20program/Screenshot%202025-05-21%20002618.png
+
+.....................................................................................................................................................................................................................
+7a. Build a Session Management using JSP program set with one minute session expiry time to get your name through text box and press submit to display the message by greeting Hello your name!. Check the expiry of the session after one minute.
+
+Session Management o/p-https://github.com/CHETHANDB123/Advanced-Java-Programs/blob/main/7a_Session%20Management/Screenshot%202025-05-21%20223805.png
+
+.....................................................................................................................................................................................................................
+7b. Construct a Cookie Management program using JSP to get the fields Name, Domain and Max Expiry Age ( in sec) and press the button Add Cookie for displaying the set cookie information. Then it has to go to show the active cookie list when you press the link go to the active cookie list
+
+Cookie Management o/p-https://github.com/CHETHANDB123/Advanced-Java-Programs/blob/main/7b_Cookie%20Management/Screenshot%202025-05-21%20215030.png
+
+.....................................................................................................................................................................................................................
+8a. Read all the existing records from the table coffee which is from the database test and insert a new coffee product into it [Create a table coffee with fields ( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively
+
+Mysql o/p-https://github.com/CHETHANDB123/Advanced-Java-Programs/blob/main/8a_database%20test%20and%20insert/Screenshot%202025-05-21%20215356.png
+
+.....................................................................................................................................................................................................................
+8b. Read all the existing records from the table coffee which is from the database test and update an existing coffee product in the table with its id. [Create a table coffee with fields ( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively
+
+Mysql Update o/p-https://github.com/CHETHANDB123/Advanced-Java-Programs/blob/main/8b_database%20test%20and%20update/Screenshot%202025-05-21%20215806.png
+
+.....................................................................................................................................................................................................................
+8c. Develop a JDBC project using JSP to append the fields empno, empname and basicsalary into the table Emp of the database Employee by getting the fields through keyboard and Generate the report as follows for the TABLE Emp (Emp_NO , Emp_Name, Basicsalary ) using HTML and JSP to get the fields and display the results respectively
+
+Salary Report o/p-https://github.com/CHETHANDB123/Advanced-Java-Programs/blob/main/8c_JDBC%20project/Screenshot%202025-05-21%20220219.png
+
+.....................................................................................................................................................................................................................
+8d. Develop a JDBC project using JDBC to update the fields empno, empname and basicsalary into the table Emp of the database Employee using HTML and JSP to get the fields and display the results respectively
+
+Update Employee o/p-https://github.com/CHETHANDB123/Advanced-Java-Programs/blob/main/8d_JDBC%20project/Screenshot%202025-05-21%20222703.png
+
+.....................................................................................................................................................................................................................
+9a. Read all the existing records from the table coffee which is from the database test and deletean existing coffee product from the table with its id and display the rest of the records using HTML and JSP to get the field and display the results respectively
+
+Mysql Delete o/p-https://github.com/CHETHANDB123/Advanced-Java-Programs/blob/main/9a_database%20test%20and%20delete/Screenshot%202025-05-21%20221140.png
+
+.....................................................................................................................................................................................................................
+9b. Read all the existing records from the table coffee which is from the database test and querycoffee name starting with ‘D’ in the table using HTML and JSP to get the field and display the results respectively
+
+Mysql Query o/p-https://github.com/CHETHANDB123/Advanced-Java-Programs/blob/main/9b_database%20test%20and%20query/Screenshot%202025-05-21%20221440.png
+
+.....................................................................................................................................................................................................................
+9c. Develop a JDBC project using MySQL to append the fields empno, empname and basicsalary into the table Emp of the database Employee by getting the fields through keyboard and Generate the report as follows for the table Emp (Emp_NO , Emp_Name, Basicsalary ) using HTML and JSP to get the field and display the results respectively
+
+JDBC append o/p-https://github.com/CHETHANDB123/Advanced-Java-Programs/blob/main/9c_JDBC%20append/Screenshot%202025-05-21%20223155.png
+
+.....................................................................................................................................................................................................................
+9d. Develop a JDBC project using MySQL to delete the records in the table Emp of the database Employee by getting the name starting with ‘S’ through keyboard and Generate the report as follows using HTML and JSP to get the field and display the results respectively
+
+JDBC delete o/p-https://github.com/CHETHANDB123/Advanced-Java-Programs/blob/main/9d_JDBC%20delete/Screenshot%202025-05-21%20223449.png
+
+.....................................................................................................................................................................................................................
