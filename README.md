@@ -103,4 +103,5 @@ Country Capital List o/p-https://github.com/CHETHANDB123/Advanced-Java-Programs/
 5d. Develop a Swing program in Java to create a Tabbed Pan of Cyan, Magenta and Yellow anddisplay the concerned color whenever the specific tab is selected in the Pan
 
 Color TabbedPane o/p-https://github.com/CHETHANDB123/Advanced-Java-Programs/blob/main/5d_Swing%20program/Screenshot%202025-05-20%20221125.png
+
 .....................................................................................................................................................................................................................
