@@ -2,6 +2,7 @@
 1a. Develop a Java program for adding elements [Apple, Banana, Orange] into an ArrayList and a LinkedList to perform the following operations with different functions directed as follows
            Linked List o/p-https://github.com/CHETHANDB123/Basics-of-Java-Programming/blob/main/LinkedList_1a/Screenshot%202025-05-19%20215454.png
 .....................................................................................................................................................................................................................
+
 1b. Array List programs 
 
 Color remove o/p-https://github.com/CHETHANDB123/Basics-of-Java-Programming/blob/main/Array%20List_1b/Screenshot%202025-05-19%20220733.png 
@@ -14,3 +15,5 @@ Color sublist o/p-https://github.com/CHETHANDB123/Basics-of-Java-Programming/blo
 
 Search color o/p-https://github.com/CHETHANDB123/Basics-of-Java-Programming/blob/main/Array%20List_1b/Screenshot%202025-05-19%20220913.png
 .....................................................................................................................................................................................................................
+
+
